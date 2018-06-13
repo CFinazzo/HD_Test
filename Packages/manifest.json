@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.unity.render-pipelines.high-definition": "1.1.2-preview",
+    "com.unity.cinemachine": "2.1.13"
+  }
+}
